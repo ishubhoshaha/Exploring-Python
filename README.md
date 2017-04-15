@@ -7,6 +7,12 @@
 <li>
 <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/Sorting_List.py">Sorting Python List</a>
 </li>
+<li>
+<a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/List_Slicing.py">Slicing Python List</a>
+</li>
+<li>
+<a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/Property_Decorator.py">Property Decorator- Getter, Setter, Deletter</a>
+</li>
 </ul>
 
 <ul>
