@@ -1,4 +1,13 @@
-
+<ul>
+<h1> Basic Python</h1>
+<!-- <h4>Python implementaion of various Data Structures & Algorithm.</h4> -->
+<li>
+<a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/List_Comprehension.py">Python List Comprehension</a>
+</li>
+<li>
+<a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/Sorting_List.py">Sorting Python List</a>
+</li>
+</ul>
 
 <ul>
 <h1> Data Structures - Algorithm</h1>
