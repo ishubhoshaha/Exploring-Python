@@ -1,8 +1,8 @@
 
 
 <ul>
-<h2> Data Structures - Algorithm</h2>
-<h5>This repository contains python implementaion of various Algorithm and Data Structures.</h5>
+<h1> Data Structures - Algorithm</h1>
+<h4>Python implementaion of various Data Structures & Algorithm.</h4>
 <li>
 <a href = "https://github.com/shubhodotcse/Exploring-Python/blob/master/stack.py">Stack</a>
 </li>
