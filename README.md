@@ -19,7 +19,7 @@
 <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/namedtuple.py">Namedtuple: tuple with field name</a>
 </li>
 <li>
-<a href = "#">Deque</a>
+<a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/deque.py">Deque</a>
 </li>
 </ul>
 </li>
