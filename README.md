@@ -13,6 +13,17 @@
 <li>
 <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/Property_Decorator.py">Property Decorator- Getter, Setter, Deletter</a>
 </li>
+<li>
+<h5>Collections</h5>
+<ul>
+<li>
+<a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/namedtuple.py">Namedtuple: tuple with field name</a>
+</li>
+<li>
+<a href = "#">Deque</a>
+</li>
+</ul>
+</li>
 </ul>
 
 <ul>
