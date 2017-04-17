@@ -1,28 +1,38 @@
 <ul>
-<h1> Basic Python</h1>
-<h4>Exemplary Python Code to learn basic of PYTHON</h4>
-<li>
-<a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/List_Comprehension.py">Python List Comprehension</a>
-</li>
-<li>
-<a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/Sorting_List.py">Sorting Python List</a>
-</li>
-<li>
-<a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/List_Slicing.py">Slicing Python List</a>
-</li>
-<li>
-<a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/Property_Decorator.py">Property Decorator- Getter, Setter, Deletter</a>
-</li>
-<li>Collections
-<ul>
-<li>
-<a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/namedtuple.py">Namedtuple: tuple with field name</a>
-</li>
-<li>
-<a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/deque.py">Deque</a>
-</li>
-</ul>
-</li>
+    <h1> Basic Python</h1>
+    <h4>Exemplary Python Code to learn basic of PYTHON</h4>
+    <li>
+        <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/List_Comprehension.py">Python List Comprehension</a>
+    </li>
+    <li>
+        <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/Sorting_List.py">Sorting Python List</a>
+    </li>
+    <li>
+        <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/List_Slicing.py">Slicing Python List</a>
+    </li>
+    <li>
+        <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/Property_Decorator.py">Property Decorator- Getter, Setter, Deletter</a>
+    </li>
+    <li>Collections
+        <ul>
+            <li>
+                <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/namedtuple.py">Namedtuple: tuple with field name</a>
+            </li>
+            <li>
+                <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/deque.py">Deque</a>
+            </li>
+        </ul>
+    </li>
+		<li>Datetime
+        <ul>
+            <li>
+								<a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/datetime.py">Datetime module and striptime vs strftime</a>
+            </li>
+            <li>
+                <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/using_pytz.py">Timzone aware datetime using pytz</a>
+            </li>
+        </ul>
+    </li>
 </ul>
 
 <ul>
