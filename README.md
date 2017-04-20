@@ -14,7 +14,7 @@
         <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/Property_Decorator.py">Property Decorator- Getter, Setter, Deletter</a>
     </li>
     <li>
-        <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/Property_Decorator.py">Basic lambda function</a>
+        <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/lambda_fn.py">Basic lambda function</a>
     </li>
     <li>Collections
         <ul>
