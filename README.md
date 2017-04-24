@@ -2,6 +2,9 @@
     <h1> Basic Python</h1>
     <h4>Exemplary Python Code</h4>
     <li>
+        <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/ternary_operator.py">Python Ternary Operator</a>
+    </li>
+    <li>
         <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/List_Slicing.py">Slicing Python List</a>
     </li>
     <li>
