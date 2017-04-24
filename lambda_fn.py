@@ -14,3 +14,16 @@ print (even_number)
 lst = [(1,3),(-5,10),(77,-3)]
 lst.sort(key = lambda x:x[1])
 print (lst)
+
+print ("-----Using lambda as if condion-----")
+#Syntax 
+# function_name = lambda parameters:(false outcome,true outcome)[condition]
+# def love(ucl):
+# 	if ucl>=11:
+# 		return "Real Madrid"
+# 	else:
+# 		return "Some Farmers Club"
+love = lambda ucl:("Some Farmers Club","Real Madrid")[ucl>=11] # Equivalent of above function
+best_in_spain = lambda ucl,league:("Barcelona: not bettar than Real Madrid","Real Madrid")[ucl>=11 and league>=32]
+print(love(11))
+print(best_in_spain(5,23))
