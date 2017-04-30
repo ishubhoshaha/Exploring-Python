@@ -22,6 +22,13 @@
     <li>
         <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/generator.py">Python Genaretor</a>
     </li>
+    <li>String Manipulation
+        <ul>
+            <li>
+                <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/textwrap.py">Textwrap</a>
+            </li>
+        </ul>
+    </li>
     <li>Collections
         <ul>
             <li>
