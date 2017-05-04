@@ -37,6 +37,9 @@
             <li>
                 <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/deque.py">Deque</a>
             </li>
+	    <li>
+                <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/counter.py">Counter</a>
+            </li>
         </ul>
     </li>
 		<li>Datetime
