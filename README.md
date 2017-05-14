@@ -11,6 +11,9 @@
         <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/List_Comprehension.py">Python List Comprehension</a>
     </li>
     <li>
+        <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/multidimensional_list.py">Multidimensional List</a>
+    </li>
+    <li>
         <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/Sorting_List.py">Default Sorting fn</a>
     </li>    
     <li>
