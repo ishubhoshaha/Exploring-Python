@@ -23,6 +23,9 @@
         <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/lambda_fn.py">Basic lambda function</a>
     </li>
     <li>
+        <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/map_filter_reduce.py">Map,Filter,Reduce function</a>
+    </li>
+    <li>
         <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/generator.py">Python Genaretor</a>
     </li>
     <li>String Manipulation
