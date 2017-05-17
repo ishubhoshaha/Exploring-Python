@@ -48,6 +48,16 @@
             </li>
         </ul>
     </li>
+    <li>Itertools
+        <ul>
+            <li>
+                <a href = "https://github.com/ishubhoshaha/Exploring-Python/blob/master/itertools_basic_fn.py">Itertools Basic</a>
+            </li>
+	    <li>
+                <a href = "#">Itertools groupby fn</a>
+            </li>
+        </ul>
+    </li>
 		<li>Datetime
         <ul>
             <li>
