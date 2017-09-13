@@ -16,7 +16,7 @@ print(current_time)
 make_date_time_obj = datetime.datetime(2017,10,22,12,33,45,100) # year,month,day,hour,min,sec,microsec
 print(make_date_time_obj)
 
-print("\n-----------------------\nstrptime() -> datetime to string \n-----------------------")
+print("\n-----------------------\nstrftime() -> datetime to string \n-----------------------")
 datetimeinstring = current_datetime.strftime('%B %d, %Y - %A')
 print (repr(datetimeinstring))
 #Syntax- (dateobject).strftime('in what format we want the resultant string')
