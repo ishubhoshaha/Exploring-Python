@@ -68,6 +68,16 @@
             </li>
         </ul>
     </li>
+    <li>Python Iterators
+        <ul>
+            <li>
+                <a href="https://github.com/ishubhoshaha/Exploring-Python/blob/master/basic_iterator.py">Basic Iterator</a>
+            </li>
+            <li>
+                <a href="https://github.com/ishubhoshaha/Exploring-Python/blob/master/custom_range.py">Custom range() function for 'for' loop</a>
+            </li>
+        </ul>
+    </li>
 </ul>
 <ul>
     <h1> Data Structures - Algorithm</h1>
