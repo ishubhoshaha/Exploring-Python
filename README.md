@@ -58,6 +58,19 @@
             </li>
         </ul>
     </li>
+
+    <li>Datetime
+        <ul>
+            <li>
+                <a href="https://github.com/ishubhoshaha/Exploring-Python/blob/master/datetime.py">Datetime module and striptime vs strftime</a>
+            </li>
+            <li>
+                <a href="https://github.com/ishubhoshaha/Exploring-Python/blob/master/using_pytz.py">Timzone aware datetime using pytz</a>
+            </li>
+        </ul>
+    </li>
+
+
 </ul>
 <ul>
     <h1> Data Structures - Algorithm</h1>
