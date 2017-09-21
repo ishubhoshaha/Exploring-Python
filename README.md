@@ -58,7 +58,6 @@
             </li>
         </ul>
     </li>
-
     <li>Datetime
         <ul>
             <li>
@@ -69,8 +68,6 @@
             </li>
         </ul>
     </li>
-
-
 </ul>
 <ul>
     <h1> Data Structures - Algorithm</h1>
